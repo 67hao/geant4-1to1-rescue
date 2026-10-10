@@ -1,0 +1,39 @@
+/control/verbose 2
+
+# Set hinh hoc 1 lan duy nhat cho CA nhom (sample=S0, height=150.000000000 mm)
+/DetectorConstruction/Sample_Material S0
+/DetectorConstruction/Collimator2_Height 150.000000000
+/DetectorConstruction/update
+
+/control/execute run_S0_H150_E15.mac
+/control/execute run_S0_H150_E20.mac
+/control/execute run_S0_H150_E30.mac
+/control/execute run_S0_H150_E40.mac
+/control/execute run_S0_H150_E50.mac
+/control/execute run_S0_H150_E60.mac
+/control/execute run_S0_H150_E80.mac
+/control/execute run_S0_H150_E100.mac
+/control/execute run_S0_H150_E150.mac
+/control/execute run_S0_H150_E200.mac
+/control/execute run_S0_H150_E300.mac
+/control/execute run_S0_H150_E400.mac
+/control/execute run_S0_H150_E500.mac
+/control/execute run_S0_H150_E600.mac
+/control/execute run_S0_H150_E800.mac
+/control/execute run_S0_H150_E1000.mac
+/control/execute run_S0_H150_E1250.mac
+/control/execute run_S0_H150_E1500.mac
+/control/execute run_S0_H150_E2000.mac
+/control/execute run_S0_H150_E3000.mac
+/control/execute run_S0_H150_E4000.mac
+/control/execute run_S0_H150_E5000.mac
+/control/execute run_S0_H150_E6000.mac
+/control/execute run_S0_H150_E7000.mac
+/control/execute run_S0_H150_E8000.mac
+/control/execute run_S0_H150_E9000.mac
+/control/execute run_S0_H150_E10000.mac
+/control/execute run_S0_H150_E11000.mac
+/control/execute run_S0_H150_E12000.mac
+/control/execute run_S0_H150_E13000.mac
+/control/execute run_S0_H150_E14000.mac
+/control/execute run_S0_H150_E15000.mac

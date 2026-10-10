@@ -1,0 +1,1052 @@
+[
+  {
+    "job_name": "rescue_S7_1.5_0.02",
+    "sample": "S7",
+    "energy_mev": 0.02,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_1.5_0.015",
+    "sample": "S7",
+    "energy_mev": 0.015,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S4_1.5_0.015",
+    "sample": "S4",
+    "energy_mev": 0.015,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_3.0_0.02",
+    "sample": "S7",
+    "energy_mev": 0.02,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_3.0_0.015",
+    "sample": "S7",
+    "energy_mev": 0.015,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_2.5_0.03",
+    "sample": "S6",
+    "energy_mev": 0.03,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_2.5_0.04",
+    "sample": "S6",
+    "energy_mev": 0.04,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_1.0_0.015",
+    "sample": "S6",
+    "energy_mev": 0.015,
+    "thickness_cm": 1.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_0.3_0.02",
+    "sample": "S8",
+    "energy_mev": 0.02,
+    "thickness_cm": 0.3,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_1.0_0.015",
+    "sample": "S7",
+    "energy_mev": 0.015,
+    "thickness_cm": 1.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_0.3_0.015",
+    "sample": "S8",
+    "energy_mev": 0.015,
+    "thickness_cm": 0.3,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_1.0_0.02",
+    "sample": "S7",
+    "energy_mev": 0.02,
+    "thickness_cm": 1.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_1.5_0.06",
+    "sample": "S7",
+    "energy_mev": 0.06,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_1.0_0.03",
+    "sample": "S7",
+    "energy_mev": 0.03,
+    "thickness_cm": 1.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_0.5_0.015",
+    "sample": "S6",
+    "energy_mev": 0.015,
+    "thickness_cm": 0.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_3.0_0.06",
+    "sample": "S7",
+    "energy_mev": 0.06,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_3.0_0.015",
+    "sample": "S5",
+    "energy_mev": 0.015,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_0.5_0.02",
+    "sample": "S6",
+    "energy_mev": 0.02,
+    "thickness_cm": 0.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_3.0_0.02",
+    "sample": "S5",
+    "energy_mev": 0.02,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_3.0_0.04",
+    "sample": "S7",
+    "energy_mev": 0.04,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_1.5_0.03",
+    "sample": "S7",
+    "energy_mev": 0.03,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_3.0_0.03",
+    "sample": "S7",
+    "energy_mev": 0.03,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_3.0_0.08",
+    "sample": "S7",
+    "energy_mev": 0.08,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S4_0.8_0.015",
+    "sample": "S4",
+    "energy_mev": 0.015,
+    "thickness_cm": 0.8,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_2.0_0.06",
+    "sample": "S5",
+    "energy_mev": 0.06,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_2.0_0.015",
+    "sample": "S5",
+    "energy_mev": 0.015,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_2.0_0.02",
+    "sample": "S5",
+    "energy_mev": 0.02,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_0.3_0.015",
+    "sample": "S7",
+    "energy_mev": 0.015,
+    "thickness_cm": 0.3,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_0.3_0.02",
+    "sample": "S7",
+    "energy_mev": 0.02,
+    "thickness_cm": 0.3,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S4_1.0_0.015",
+    "sample": "S4",
+    "energy_mev": 0.015,
+    "thickness_cm": 1.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S4_2.0_0.015",
+    "sample": "S4",
+    "energy_mev": 0.015,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_1.5_0.015",
+    "sample": "S5",
+    "energy_mev": 0.015,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_0.5_0.02",
+    "sample": "S5",
+    "energy_mev": 0.02,
+    "thickness_cm": 0.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_3.0_0.015",
+    "sample": "S6",
+    "energy_mev": 0.015,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_3.0_0.02",
+    "sample": "S6",
+    "energy_mev": 0.02,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_2.5_0.06",
+    "sample": "S5",
+    "energy_mev": 0.06,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_1.0_0.03",
+    "sample": "S6",
+    "energy_mev": 0.03,
+    "thickness_cm": 1.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_2.5_0.03",
+    "sample": "S5",
+    "energy_mev": 0.03,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_2.5_0.06",
+    "sample": "S7",
+    "energy_mev": 0.06,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_1.5_0.02",
+    "sample": "S8",
+    "energy_mev": 0.02,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_2.0_0.03",
+    "sample": "S6",
+    "energy_mev": 0.03,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_1.0_0.02",
+    "sample": "S5",
+    "energy_mev": 0.02,
+    "thickness_cm": 1.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S4_0.8_0.02",
+    "sample": "S4",
+    "energy_mev": 0.02,
+    "thickness_cm": 0.8,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_1.5_0.02",
+    "sample": "S5",
+    "energy_mev": 0.02,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S3_0.8_0.015",
+    "sample": "S3",
+    "energy_mev": 0.015,
+    "thickness_cm": 0.8,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_2.0_0.015",
+    "sample": "S8",
+    "energy_mev": 0.015,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_2.0_0.06",
+    "sample": "S6",
+    "energy_mev": 0.06,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S4_1.5_0.02",
+    "sample": "S4",
+    "energy_mev": 0.02,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_0.8_0.02",
+    "sample": "S8",
+    "energy_mev": 0.02,
+    "thickness_cm": 0.8,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_1.0_0.02",
+    "sample": "S6",
+    "energy_mev": 0.02,
+    "thickness_cm": 1.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_2.0_0.03",
+    "sample": "S8",
+    "energy_mev": 0.03,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_2.0_0.04",
+    "sample": "S8",
+    "energy_mev": 0.04,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_2.0_0.03",
+    "sample": "S5",
+    "energy_mev": 0.03,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_0.5_0.015",
+    "sample": "S5",
+    "energy_mev": 0.015,
+    "thickness_cm": 0.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_2.5_0.015",
+    "sample": "S7",
+    "energy_mev": 0.015,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_2.5_0.02",
+    "sample": "S7",
+    "energy_mev": 0.02,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S4_3.0_0.02",
+    "sample": "S4",
+    "energy_mev": 0.02,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_0.8_0.015",
+    "sample": "S7",
+    "energy_mev": 0.015,
+    "thickness_cm": 0.8,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S2_2.0_0.02",
+    "sample": "S2",
+    "energy_mev": 0.02,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_2.5_0.08",
+    "sample": "S7",
+    "energy_mev": 0.08,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S2_3.0_0.015",
+    "sample": "S2",
+    "energy_mev": 0.015,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S2_3.0_0.02",
+    "sample": "S2",
+    "energy_mev": 0.02,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S4_1.0_0.02",
+    "sample": "S4",
+    "energy_mev": 0.02,
+    "thickness_cm": 1.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_2.5_0.03",
+    "sample": "S7",
+    "energy_mev": 0.03,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_2.5_0.04",
+    "sample": "S7",
+    "energy_mev": 0.04,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S4_2.0_0.02",
+    "sample": "S4",
+    "energy_mev": 0.02,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_1.5_0.015",
+    "sample": "S8",
+    "energy_mev": 0.015,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S4_3.0_0.06",
+    "sample": "S4",
+    "energy_mev": 0.06,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S4_3.0_0.03",
+    "sample": "S4",
+    "energy_mev": 0.03,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_3.0_0.06",
+    "sample": "S6",
+    "energy_mev": 0.06,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_2.5_0.015",
+    "sample": "S8",
+    "energy_mev": 0.015,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_1.0_0.03",
+    "sample": "S8",
+    "energy_mev": 0.03,
+    "thickness_cm": 1.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S3_2.5_0.02",
+    "sample": "S3",
+    "energy_mev": 0.02,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_0.3_0.015",
+    "sample": "S5",
+    "energy_mev": 0.015,
+    "thickness_cm": 0.3,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_0.8_0.015",
+    "sample": "S5",
+    "energy_mev": 0.015,
+    "thickness_cm": 0.8,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S3_2.5_0.015",
+    "sample": "S3",
+    "energy_mev": 0.015,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_0.8_0.02",
+    "sample": "S5",
+    "energy_mev": 0.02,
+    "thickness_cm": 0.8,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_2.5_0.015",
+    "sample": "S6",
+    "energy_mev": 0.015,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_0.5_0.02",
+    "sample": "S7",
+    "energy_mev": 0.02,
+    "thickness_cm": 0.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_2.5_0.02",
+    "sample": "S6",
+    "energy_mev": 0.02,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_0.5_0.015",
+    "sample": "S7",
+    "energy_mev": 0.015,
+    "thickness_cm": 0.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_2.5_0.06",
+    "sample": "S8",
+    "energy_mev": 0.06,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_2.5_0.04",
+    "sample": "S8",
+    "energy_mev": 0.04,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_2.5_0.03",
+    "sample": "S8",
+    "energy_mev": 0.03,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_2.5_0.08",
+    "sample": "S8",
+    "energy_mev": 0.08,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_2.5_0.06",
+    "sample": "S6",
+    "energy_mev": 0.06,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_3.0_0.04",
+    "sample": "S6",
+    "energy_mev": 0.04,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_3.0_0.03",
+    "sample": "S6",
+    "energy_mev": 0.03,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S4_2.5_0.02",
+    "sample": "S4",
+    "energy_mev": 0.02,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S4_2.5_0.015",
+    "sample": "S4",
+    "energy_mev": 0.015,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_3.0_0.08",
+    "sample": "S6",
+    "energy_mev": 0.08,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_1.5_0.06",
+    "sample": "S8",
+    "energy_mev": 0.06,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_1.5_0.04",
+    "sample": "S8",
+    "energy_mev": 0.04,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_0.8_0.02",
+    "sample": "S6",
+    "energy_mev": 0.02,
+    "thickness_cm": 0.8,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_1.5_0.03",
+    "sample": "S8",
+    "energy_mev": 0.03,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_0.8_0.015",
+    "sample": "S6",
+    "energy_mev": 0.015,
+    "thickness_cm": 0.8,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_0.8_0.03",
+    "sample": "S7",
+    "energy_mev": 0.03,
+    "thickness_cm": 0.8,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_0.3_0.015",
+    "sample": "S6",
+    "energy_mev": 0.015,
+    "thickness_cm": 0.3,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S3_2.0_0.02",
+    "sample": "S3",
+    "energy_mev": 0.02,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S3_2.0_0.015",
+    "sample": "S3",
+    "energy_mev": 0.015,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S3_1.5_0.02",
+    "sample": "S3",
+    "energy_mev": 0.02,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S4_2.5_0.03",
+    "sample": "S4",
+    "energy_mev": 0.03,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_2.0_0.02",
+    "sample": "S7",
+    "energy_mev": 0.02,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S3_1.5_0.015",
+    "sample": "S3",
+    "energy_mev": 0.015,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_2.0_0.015",
+    "sample": "S7",
+    "energy_mev": 0.015,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_1.5_0.03",
+    "sample": "S5",
+    "energy_mev": 0.03,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_3.0_0.06",
+    "sample": "S5",
+    "energy_mev": 0.06,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_1.5_0.06",
+    "sample": "S6",
+    "energy_mev": 0.06,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_1.5_0.03",
+    "sample": "S6",
+    "energy_mev": 0.03,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_2.0_0.015",
+    "sample": "S6",
+    "energy_mev": 0.015,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_1.0_0.015",
+    "sample": "S5",
+    "energy_mev": 0.015,
+    "thickness_cm": 1.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_2.0_0.02",
+    "sample": "S6",
+    "energy_mev": 0.02,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S2_1.0_0.015",
+    "sample": "S2",
+    "energy_mev": 0.015,
+    "thickness_cm": 1.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_0.8_0.015",
+    "sample": "S8",
+    "energy_mev": 0.015,
+    "thickness_cm": 0.8,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_3.0_0.03",
+    "sample": "S5",
+    "energy_mev": 0.03,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S2_2.5_0.02",
+    "sample": "S2",
+    "energy_mev": 0.02,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_3.0_0.04",
+    "sample": "S5",
+    "energy_mev": 0.04,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S2_2.5_0.015",
+    "sample": "S2",
+    "energy_mev": 0.015,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_2.0_0.02",
+    "sample": "S8",
+    "energy_mev": 0.02,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_3.0_0.02",
+    "sample": "S8",
+    "energy_mev": 0.02,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_3.0_0.015",
+    "sample": "S8",
+    "energy_mev": 0.015,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_2.0_0.06",
+    "sample": "S8",
+    "energy_mev": 0.06,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S4_3.0_0.015",
+    "sample": "S4",
+    "energy_mev": 0.015,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_1.5_0.015",
+    "sample": "S6",
+    "energy_mev": 0.015,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S6_1.5_0.02",
+    "sample": "S6",
+    "energy_mev": 0.02,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_3.0_0.06",
+    "sample": "S8",
+    "energy_mev": 0.06,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_3.0_0.05",
+    "sample": "S8",
+    "energy_mev": 0.05,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_0.8_0.03",
+    "sample": "S8",
+    "energy_mev": 0.03,
+    "thickness_cm": 0.8,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_3.0_0.04",
+    "sample": "S8",
+    "energy_mev": 0.04,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_3.0_0.03",
+    "sample": "S8",
+    "energy_mev": 0.03,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_2.5_0.02",
+    "sample": "S5",
+    "energy_mev": 0.02,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_3.0_0.08",
+    "sample": "S8",
+    "energy_mev": 0.08,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_0.8_0.02",
+    "sample": "S7",
+    "energy_mev": 0.02,
+    "thickness_cm": 0.8,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S2_2.0_0.015",
+    "sample": "S2",
+    "energy_mev": 0.015,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_2.0_0.08",
+    "sample": "S8",
+    "energy_mev": 0.08,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S5_2.5_0.015",
+    "sample": "S5",
+    "energy_mev": 0.015,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S4_0.5_0.015",
+    "sample": "S4",
+    "energy_mev": 0.015,
+    "thickness_cm": 0.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_1.0_0.02",
+    "sample": "S8",
+    "energy_mev": 0.02,
+    "thickness_cm": 1.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_1.0_0.015",
+    "sample": "S8",
+    "energy_mev": 0.015,
+    "thickness_cm": 1.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_0.5_0.02",
+    "sample": "S8",
+    "energy_mev": 0.02,
+    "thickness_cm": 0.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_0.5_0.015",
+    "sample": "S8",
+    "energy_mev": 0.015,
+    "thickness_cm": 0.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_2.0_0.03",
+    "sample": "S7",
+    "energy_mev": 0.03,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S3_3.0_0.02",
+    "sample": "S3",
+    "energy_mev": 0.02,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_2.0_0.04",
+    "sample": "S7",
+    "energy_mev": 0.04,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S3_3.0_0.015",
+    "sample": "S3",
+    "energy_mev": 0.015,
+    "thickness_cm": 3.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_1.0_0.06",
+    "sample": "S8",
+    "energy_mev": 0.06,
+    "thickness_cm": 1.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S2_1.5_0.015",
+    "sample": "S2",
+    "energy_mev": 0.015,
+    "thickness_cm": 1.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S7_2.0_0.06",
+    "sample": "S7",
+    "energy_mev": 0.06,
+    "thickness_cm": 2.0,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S8_2.5_0.02",
+    "sample": "S8",
+    "energy_mev": 0.02,
+    "thickness_cm": 2.5,
+    "particles": 1000000000
+  },
+  {
+    "job_name": "rescue_S3_1.0_0.015",
+    "sample": "S3",
+    "energy_mev": 0.015,
+    "thickness_cm": 1.0,
+    "particles": 1000000000
+  }
+]

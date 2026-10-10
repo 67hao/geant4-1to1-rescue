@@ -1,0 +1,3 @@
+/gun/energy 7000.000000 keV
+/analysis/setFileName hist_S2_H150_E7000
+/run/beamOn 100000000

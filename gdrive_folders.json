@@ -1,0 +1,10 @@
+{
+  "parent": "1Q6T25GCTu3UO2xzlJrNUPKCzSdjoGFIx",
+  "subfolders": {
+    "01_Summary_Excel_Results": "1w5PD4hjwRkjpnwNNRJqlSbV5jmhpayXG",
+    "02_Flux_Data": "1qYPpmQA9TDY4zpYNeZM7KVJjFlVjDrau",
+    "03_Simulation_Outputs": "1VA8AbwSQ4_ZvdhvKgKLEe3mQyFqzVGmN",
+    "04_Input_Decks": "13IEE8PUl-KVgsFAD-y7QspvhLuHA2wRT",
+    "05_Execution_Logs_and_Benchmarks": "1YF3tq5WxRC5V1hEau0Kta-QdtX3P35zE"
+  }
+}

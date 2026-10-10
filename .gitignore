@@ -1,0 +1,13 @@
+build/
+*.exe
+*.obj
+*.o
+*.root
+*.csv
+process_results.csv
+*.log
+geant4_work/
+__pycache__/
+.vs/
+*.vcxproj*
+*.sln

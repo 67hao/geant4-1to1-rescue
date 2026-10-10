@@ -1,0 +1,3 @@
+/gun/energy 80.000000 keV
+/analysis/setFileName hist_S3_H0_E80
+/run/beamOn 100000000
