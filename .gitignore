@@ -11,3 +11,4 @@ __pycache__/
 .vs/
 *.vcxproj*
 *.sln
+!missing_g4.csv
