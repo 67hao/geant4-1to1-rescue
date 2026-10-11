@@ -17,6 +17,7 @@ def parse_args():
     parser.add_argument("--gdrive-folder", type=str, required=True)
     parser.add_argument("--checklist", type=str, default="missing_g4.csv")
     parser.add_argument("--github-user", type=str, default="local")
+    parser.add_argument("--timeout-hours", type=float, default=5.4)
     return parser.parse_args()
 
 def parse_process_results_last_row(csv_path: Path):
